@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitranshibendale&label=Profile%20views&color=0e75b6&style=flat" alt="chitranshibendale" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
-
 - 💬 Ask me about **Data structure & Algo, Python Projects, Selenium**
 
 - 📫 How to reach me **chitranshibendale2001@gmail.com**
